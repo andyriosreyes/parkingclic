@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27001871322",
+    "project_id": "parking-clic",
+    "storage_bucket": "parking-clic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27001871322:android:e03bc295546d85e232bee3",
+        "android_client_info": {
+          "package_name": "com.archicode.parkingclic.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIee4er93XvxGfQyRyEaIJBCzzyu3xem8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
